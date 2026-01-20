@@ -7,5 +7,3 @@ print("Welcome to the Python programming world.")
 ## New linees added
 print("New start")
 
-## Lets add new lines 
-print("Number two numbers")
