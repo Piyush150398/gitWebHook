@@ -6,3 +6,5 @@ print("Welcome to the Python programming world.")
 
 ## New print
 print("Last")
+
+print("New Journey")
