@@ -9,4 +9,3 @@ print("Last")
 
 print("New Journey")
 
-print("Please work along with.")
