@@ -7,5 +7,3 @@ print("Welcome to the Python programming world.")
 # Print number
 print("number")
 
-# Print string
-print("Nice move !!!")
