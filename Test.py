@@ -9,4 +9,3 @@ print("number")
 
 #print test
 # Print
-print("Jamner")
