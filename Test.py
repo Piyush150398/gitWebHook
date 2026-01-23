@@ -10,4 +10,4 @@ print("number")
 #print test
 print("It's my testing project")
 
-print("I am using the python")
+print("I am using the java")
