@@ -9,6 +9,3 @@ print("number")
 
 #print test
 print("It's my testing project")
- 
-# This is kind off testing
-print("It testing only")
