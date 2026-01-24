@@ -10,3 +10,5 @@ print("number")
 #print test
 print("It's my testing project")
 
+# This project is has some inputs 
+print("Put your inputs")
