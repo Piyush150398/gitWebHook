@@ -10,4 +10,3 @@ print("number")
 #print test
 print("It's my testing project")
 
-# This is the realtime project testing
